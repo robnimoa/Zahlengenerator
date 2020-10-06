@@ -1,6 +1,6 @@
-## Zahlengenerator in Python
+# Zahlengenerator in Python
 
-# Performancetest
+## Performancetest
 bubbleSort, selectSort, built-in-Sorted 
 
 tested with:
